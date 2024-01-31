@@ -2,7 +2,9 @@ h1{
     font-size: 20px;
     color: rgb(0, 80, 190);
     margin-bottom: 10px;
-    margin-left: 45%;
+    /*
+    margin-left: 10%;
+    */
     font-weight: 700;
 }
 
