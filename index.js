@@ -19,6 +19,4 @@ knopka.addEventListener('click',function(){
     }
 }); 
 
-knopka.ev
-
  
