@@ -288,7 +288,7 @@ body {
 .container_pre-tail-picture {
     position: relative;
     border: 1px solid red;
-    background-image: url('resources/pictures/PreTailPicture.png');
+    background-image: url('../resources/pictures/PreTailPicture.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -342,7 +342,7 @@ body {
     /* margin-bottom: 12px; */
     top: -37px;
     left: -4px;
-    background-image: url('resources/pictures/contacts-phone.png');
+    background-image: url('../resources/pictures/contacts-phone.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
